@@ -1,0 +1,12 @@
+if we wat to see git path
+=>$ which git
+/mingw64/bin/git
+
+=>$ git --version
+git version 2.25.1.windows.1
+
+
+Git config based on and 
+System =git config --System
+User  =>git config --global
+project=> git config
