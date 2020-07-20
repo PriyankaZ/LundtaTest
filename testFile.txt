@@ -10,3 +10,12 @@ Git config based on and
 System =git config --System
 User  =>git config --global
 project=> git config
+
+
+what is add .
+
+=> it is telling whateverchanges has been done svae this dirctory [.(this path)]
+cycle of git
+
+make changes 
+add changes commit changes with message
