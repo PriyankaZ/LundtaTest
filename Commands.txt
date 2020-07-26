@@ -7,4 +7,7 @@ it  will check diffrence between
  1 Working directory
  2 Staging Index	
  3 Repository
+
+
+tesin remote
   
