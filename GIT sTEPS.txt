@@ -1,0 +1,52 @@
+git add
+git commit
+check git statusand git log
+
+
+check  git remote  
+then  git remote add origin https://github.com/PriyankaZ/LundtaTest.git 
+see branches git branch
+
+check info abot rgit remote 
+ git remote -v
+
+create branch git branch priyanka
+switch branch  git checkout  master ot branch name 
+
+
+check git online status =>git log --oneline origin/master
+
+
+
+  it will all remote reppositoryb git branch -r
+fetch file from Git Hub  
+
+git clone https://github.com/PriyankaZ/LundtaTest.git 
+ you can create other name along with gitLink
+
+example :git clone https://github.com/PriyankaZ/LundtaTest.git lyndaVersion
+
+
+
+MADHUUUUUUUUUUUUUU
+
+
+git restore --staged
+
+rename file
+git mv 2nd second 
+
+
+maset branch =>git merge sunday
+
+git checkout -b newbranch origin/master
+
+
+check pull
+
+
+
+
+REMOVE GIT CREDENTIAL  FROM DEVICE
+control panel > user accounts > credential manager > Windows credentials > Generic credentials
+  
